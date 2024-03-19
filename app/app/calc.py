@@ -11,7 +11,3 @@ def substract(x, y):
     """Substract x and y return result"""
     return x - y
 
-
-
-
-
