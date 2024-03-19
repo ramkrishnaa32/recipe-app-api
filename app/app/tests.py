@@ -15,3 +15,4 @@ class CalsTests(SimpleTestCase):
 
         """Validating the result"""
         self.assertEqual(res, 11)
+        
